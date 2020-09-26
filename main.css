@@ -1,0 +1,29 @@
+*{cursor: none;}
+
+body{
+  background-color:black;
+  overflow: hidden;
+}
+
+.cursor{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #fff;
+    z-index: 2000;
+}
+
+
+.follower{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100px;
+    height: 100px;
+    background-color: #6eff00;
+    border-radius: 50%;
+    opacity: 0.7;
+}
