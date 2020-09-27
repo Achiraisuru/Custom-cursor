@@ -27,3 +27,18 @@ body{
     border-radius: 50%;
     opacity: 0.7;
 }
+
+.cursortxt{
+  color: white;
+  font-size:170px;
+  font-family: 'Poppins', sans-serif;
+  line-height:160px;
+}
+
+.restext{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
