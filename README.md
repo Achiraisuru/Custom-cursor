@@ -1,9 +1,9 @@
 # GSAP Custom cursor
 
-This is a simple Custom cursor that has built with GSAP,CSS and HTML. 
-```
+This is a simple Custom cursor that has built with GSAP,CSS and HTML. - 
+
 [Demo](https://achiraisuru.github.io/Custom-cursor/)
-```
+
 ## What is GSAP?
 
 The GreenSock Animation Platform (GSAP) animates anything Javascript can touch (CSS properties, SVG, React, canvas, generic objects) and solves countless browser inconsistencies, all with blazing speed (up to 20x faster than jQuery). 
