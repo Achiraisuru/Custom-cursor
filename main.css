@@ -1,4 +1,6 @@
-*{cursor: none;}
+*{cursor: none;
+  font-family: 'Poppins', sans-serif;
+}
 
 body{
   background-color:black;
@@ -23,7 +25,7 @@ body{
     left: 0;
     width: 100px;
     height: 100px;
-    background-color: #6eff00;
+    background-color: #ff0087;
     border-radius: 50%;
     opacity: 0.7;
 }
@@ -31,7 +33,7 @@ body{
 .cursortxt{
   color: white;
   font-size:170px;
-  font-family: 'Poppins', sans-serif;
+  font-weight: 800;
   line-height:160px;
 }
 
@@ -41,4 +43,12 @@ body{
   left: 50%;
   transform: translate(-50%,-50%);
   text-align: center;
+}
+
+.gsaptxt{
+  background-color: aquamarine;
+    font-size: 32px;
+    padding: 11px 0px;
+    margin-top: 10px;
+    font-weight: 600;
 }
