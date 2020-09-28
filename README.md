@@ -9,6 +9,7 @@ The GreenSock Animation Platform (GSAP) animates anything Javascript can touch (
 
 ## Why GSAP?
 
+```
 ‣ Crazy fast
 ‣ Freakishly robust
 ‣ Compatible
@@ -16,3 +17,4 @@ The GreenSock Animation Platform (GSAP) animates anything Javascript can touch (
 ‣ Lightweight and expandable
 ‣ No dependencies
 ‣ Advanced sequencing
+```
