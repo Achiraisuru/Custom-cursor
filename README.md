@@ -1,6 +1,6 @@
 # GSAP Custom cursor
 
-This is a simple Custom cursor that has built with GSAP,CSS and HTML. - 
+This is a simple Custom cursor that has built with GSAP,CSS and HTML.
 
 [Demo](https://achiraisuru.github.io/Custom-cursor/)
 
